@@ -27,14 +27,11 @@ Tematica de la charla: Copilot no solo será el asistente que el desarrollador t
 Av. P.º de la Reforma 373 · Ciudad de México, CD
 
 _ GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
-<img width="599" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
-Ciberseguridad para No Hackers
-Junto a Rodrigo Martinez conoceremos el intrigante mundo de la protección digital y la ciberseguridad.
-Desglosaremos los ataques cibernéticos más comunes de manera sencilla, desde los clásicos hasta las últimas innovaciones, incluyendo la seguridad impulsada por inteligencia artificial y gadgets de hacking de última generación.
-abordaremos técnicas de ingeniería social, destacando la importancia de la conciencia humana en la protección contra amenazas digitales. A través de ejemplos de ataques, ilustraremos la realidad de los riesgos cibernéticos y cómo la comprensión de estos puede fortalecer nuestra seguridad en línea.
-Embeddings y la Técnica RAG en la IA
-Además, con Carlos Andrés Alarcón, exploraremos cómo los ‘embeddings’ están revolucionando la forma en que las máquinas entienden el lenguaje. Pero no nos detendremos allí. Vamos a sumergirnos en cómo se integran con modelos de lenguaje a gran escala, como GPT-4, en una técnica llamada RAG (Retieval augmented generation) para crear sistemas de IA verdaderamente versátiles y potentes.
+<img width="400" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
 
+Ponentes:
+Ciberseguridad para No Hackers, junto a Rodrigo Martinez conoceremos
+Embeddings y la Técnica RAG en la IA, con Carlos Andrés Alarcón
 
 
 ✍🏽 Un par de Términos y Condiciones:
