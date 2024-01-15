@@ -2,6 +2,7 @@
 
 ¡Saludos a todos los entusiastas de la inteligencia artificial, GitHub y technologia! Nos complace anunciar que GitHub es el orgulloso patrocinador de un evento imprescindible para la comunidad AI: Impulse AI. Desde el ámbito académico hasta la industria, abarcando startups y empresas establecidas, nos unimos para explorar la próxima ola de inteligencia artificial, incluyendo la Inteligencia Artificial Generativa (Gen AI) y los avances en su implementación en entornos de producción, así como el análisis de datos.
 
+### Horarios de participacion y actividades
 
 ## Dia 1 | Martes, enero 16
 ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
