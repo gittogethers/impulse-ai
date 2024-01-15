@@ -1,7 +1,9 @@
 ### ¡Saludos a todos los entusiastas de la inteligencia artificial y GitHub!
 
 Nos complace anunciar que GitHub es el orgulloso patrocinador de un evento imprescindible para la comunidad AI: **[Impulse AI](http://www.eventbrite.ca/e/637519998477/?discount=sponsorfriends20Jan2024)**. 
-<img width="600" alt="Screenshot 2024-01-15 at 12 18 28 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/68f0ccb9-e306-4a9a-b56a-ef9e855523cd">         
+
+<img width="600" alt="Screenshot 2024-01-15 at 12 18 28 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/68f0ccb9-e306-4a9a-b56a-ef9e855523cd">       
+
 Desde el ámbito académico hasta la industria, abarcando startups y empresas establecidas, nos unimos para explorar la próxima ola de inteligencia artificial, incluyendo la Inteligencia Artificial Generativa (Gen AI) y los avances en su implementación en entornos de producción, así como el análisis de datos. 
 
 ### Horarios de participacion y actividades 🗓️
@@ -22,7 +24,7 @@ Tema de la Charla: Copilot es más que un asistente para desarrolladores en su e
 - Fin de la conferencia, pero tenemos más eventos y actividades en la Ciudad de México 🇲🇽. ¡Sigue leyendo para participar! 👇
 ## Dia 3 | Jueves, enero 18
 
-- Platzi Developer Group: Vision 2024 GitHub Copilot, por [Andrea Griffiths](https://www.instagram.com/alacolombiadev)
+- Platzi Developer Group: Vision 2024 GitHub Copilot, por [Andrea Griffiths](https://www.instagram.com/alacolombiadev) Registro: https://platzi.com/eventos/platzi-dev-group-ai-24/
 
 ## Dia 4 | Viernes, enero 19 | 7PM CST | Oficinas Platzi 
 Av. P.º de la Reforma 373 · Ciudad de México, CD
