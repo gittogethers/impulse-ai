@@ -7,15 +7,34 @@
 ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
 
 - Exhibit opens 9:00 am: Unete para entrar en nuestro raffle y aprender mas acerca de GitHub Copilot
-- 12:05 PM - 12:35 PM: Inteligencia Artificial en el desarrollo - Conoce el Copilot de hoy y futuro
-Copilot no solo será el asistente que el desarrollador tendrá en su entorno de desarrollo. Hay muchas más funcionalidades que próximamente se están liberando, con el objetivo de agregar IA en cada una de las etapas del proceso de DevSecOps. Conócelas en esta charla!!
+- 12:05 PM - 12:35 PM: Inteligencia Artificial en el desarrollo - Conoce el Copilot de hoy y futuro.
+Tematica de la charla: Copilot no solo será el asistente que el desarrollador tendrá en su entorno de desarrollo. Hay muchas más funcionalidades que próximamente se están liberando, con el objetivo de agregar IA en cada una de las etapas del proceso de DevSecOps. Conócelas en esta charla.
 - Octotrivia 4PM: Juega, participa y demuestra tus conocimientos en IA.
 
 ## Dia 2 | Miercoles, enero 17
 
-- Exhibit opens 9:00am: Unete a nuestro meetup para participar en un rifa especial! No olvides unirte a nuestro: [Meetup](https://meetu.ps/c/4FVdP/hV2Nj/a).
+- Exhibit opens 9:00am: Unete a nuestro meetup para participar en un rifa especial! No olvides unirte a nuestro: [Presencial CDMX GitTogethers]([https://meetu.ps/c/4FVdP/hV2Nj/a](https://gh.io/grupomexico)).
 - Introduccion a SDP 11:am: 👩🏻‍🎓 Si eres estudiante, no olvides que tienes acceso al GitHub Student Developer Pack, que ofrece más de 80 herramientas, incluyendo copilot, totalmente gratis. Unete a esta charla lighting desde nuestro stand y conoce todas las ventajas de aplicar:
-- Rifa final 4pm: Si aun no has entrado a nuestro sorteo, esta es tu oportunidad
+- Rifa final 4pm: Si aun no has entrado a nuestro sorteo, esta es tu oportunidad!
+- Fin de conferencia pero tenemos mas eventos y actividades en la Ciudad de Mexico 🇲🇽, sigue leyendo para participar 👇
+
+## Dia 3 | Jueves, enero 18
+
+- Platzi Developer Group 
+
+## Dia 4 | Viernes, enero 19 | 7PM CST | Oficinas Platzi 
+Av. P.º de la Reforma 373 · Ciudad de México, CD
+
+_ GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
+<img width="599" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
+Ciberseguridad para No Hackers
+Junto a Rodrigo Martinez conoceremos el intrigante mundo de la protección digital y la ciberseguridad.
+Desglosaremos los ataques cibernéticos más comunes de manera sencilla, desde los clásicos hasta las últimas innovaciones, incluyendo la seguridad impulsada por inteligencia artificial y gadgets de hacking de última generación.
+abordaremos técnicas de ingeniería social, destacando la importancia de la conciencia humana en la protección contra amenazas digitales. A través de ejemplos de ataques, ilustraremos la realidad de los riesgos cibernéticos y cómo la comprensión de estos puede fortalecer nuestra seguridad en línea.
+Embeddings y la Técnica RAG en la IA
+Además, con Carlos Andrés Alarcón, exploraremos cómo los ‘embeddings’ están revolucionando la forma en que las máquinas entienden el lenguaje. Pero no nos detendremos allí. Vamos a sumergirnos en cómo se integran con modelos de lenguaje a gran escala, como GPT-4, en una técnica llamada RAG (Retieval augmented generation) para crear sistemas de IA verdaderamente versátiles y potentes.
+
+
 
 ✍🏽 Un par de Términos y Condiciones:
 
