@@ -30,9 +30,8 @@ Tema de la Charla: Copilot es más que un asistente para desarrolladores en su e
 
 ## Dia 4 | Viernes, enero 19 | 7PM CST | Oficinas Platzi 
 Av. P.º de la Reforma 373 · Ciudad de México, CD
-
-_ GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
 <img width="400" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
+GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
 
 **Ponentes:**
 - Ciberseguridad para No Hackers, junto a Rodrigo Martinez
