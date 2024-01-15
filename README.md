@@ -15,7 +15,7 @@ Tematica de la charla: Copilot no solo será el asistente que el desarrollador t
 ## Dia 2 | Miercoles, enero 17
 
 - Exhibit opens 9:00am: Unete a nuestro meetup para participar en un rifa especial! No olvides unirte a nuestro: [Presencial CDMX GitTogethers]([https://meetu.ps/c/4FVdP/hV2Nj/a](https://gh.io/grupomexico)).
-- Introduccion a SDP 11:am: 👩🏻‍🎓 Si eres estudiante, no olvides que tienes acceso al GitHub Student Developer Pack, que ofrece más de 80 herramientas, incluyendo copilot, totalmente gratis. Unete a esta charla lighting desde nuestro stand y conoce todas las ventajas de aplicar:
+- Introduccion a SDP 11:am: 👩🏻‍🎓 Si eres estudiante, no olvides que tienes acceso al GitHub Student Developer Pack, que ofrece más de 80 herramientas, incluyendo copilot, totalmente gratis. Unete a esta charla lighting desde nuestro stand y conoce todas las ventajas de aplicar: [https://gh.io/impulse-conf](https://gh.io/impulse-conf)
 - Rifa final 4pm: Si aun no has entrado a nuestro sorteo, esta es tu oportunidad!
 - Fin de conferencia pero tenemos mas eventos y actividades en la Ciudad de Mexico 🇲🇽, sigue leyendo para participar 👇
 
