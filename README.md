@@ -14,7 +14,9 @@ Desde el ámbito académico hasta la industria, abarcando startups y empresas es
   ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
-- Octotrivia a las 4 PM: Juega, participa y demuestra tus conocimientos en IA.
+- Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
+
+  <img src="[https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489](https://github.com/githubpresente/impulse-ai/assets/20666190/ba016787-ea0e-40df-a082-54b16eafe215)" width="400" height="400">
 
 ## Dia 2 | Miercoles, enero 17
 
