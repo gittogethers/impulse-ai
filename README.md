@@ -9,9 +9,9 @@ Desde el ámbito académico hasta la industria, abarcando startups y empresas es
 ### Horarios de participacion y actividades 🗓️
 
 ## Dia 1 | Martes, enero 16
-![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
 
 - Apertura de la Exhibición a las 9:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
+  ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
 - Octotrivia a las 4 PM: Juega, participa y demuestra tus conocimientos en IA.
@@ -20,18 +20,21 @@ Tema de la Charla: Copilot es más que un asistente para desarrolladores en su e
 
 - Apertura de la Exhibición a las 9:00 AM: ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en CDMX](https://gh.io/grupomexico).
 - Introducción al SDP 11:00 AM a 11:15 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [https://gh.io/impulse-conf](https://gh.io/impulse-conf).
-- Rifa Final a las 4 PM: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad! Inscribete para participar: https://gh.io/sorteos
-  ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489)
-
+- Rifa Final a las 4 PM:    ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad! Inscribete para ganar: https://gh.io/sorteos
+  
+   <img src="https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489" width="200" height="200">
 - Fin de la conferencia, pero tenemos más eventos y actividades en la Ciudad de México 🇲🇽. ¡Sigue leyendo para participar! 👇
+
 ## Dia 3 | Jueves, enero 18
-![https___cdn evbuc com_images_671735059_718389348053_1_original](https://github.com/githubpresente/impulse-ai/assets/20666190/2c337026-eb8b-463f-87c6-4d7329a776bc)
+![platzi meetup](https://github.com/githubpresente/impulse-ai/assets/20666190/2c337026-eb8b-463f-87c6-4d7329a776bc)
 - Platzi Developer Group: Vision 2024 GitHub Copilot, por [Andrea Griffiths](https://www.instagram.com/alacolombiadev) Registro: https://platzi.com/eventos/platzi-dev-group-ai-24/
 
 ## Dia 4 | Viernes, enero 19 | 7PM CST | Oficinas Platzi 
-Av. P.º de la Reforma 373 · Ciudad de México, CD
-<img width="400" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
+Av. P.º de la Reforma 373 · Ciudad de México, CDMX
+
 GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
+<img width="400" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
+
 
 **Ponentes:**
 - Ciberseguridad para No Hackers, junto a Rodrigo Martinez
@@ -39,10 +42,8 @@ GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com
 
 
 ✍🏽 Un par de Términos y Condiciones:
-Participar en esta rifa, actividades en el exhibit y otras NO constituirá tu consentimiento para ser contactado por cualquier otra cosa.
-No te agregaremos a nuestra base de datos de marketing (pero si quieres suscribirte a nuestro boletín, puedes hacerlo [aquí](https://resources.github.com/newsletter/).
-
-Los premios de las actividades no se puede cambiar o intercambiar.
-
-¡El ganador del premio DEBE estar presente cuando saquemos un ganador, de lo contrario, volveremos a sortear!
-¡Buena suerte!
+- Participar en esta rifa, actividades en el exhibit y otras NO constituirá tu consentimiento para ser contactado por cualquier otra cosa.
+- No te agregaremos a nuestra base de datos de marketing (pero si quieres suscribirte a nuestro boletín, puedes hacerlo [aquí](https://resources.github.com/newsletter/).
+- Los premios de las actividades no se puede cambiar o intercambiar.
+- ¡Ganadores de premios **DEBEN estar presente** cuando saquemos un ganador, de lo contrario, volveremos a sortear!
+- ¡Buena suerte! 🍀
