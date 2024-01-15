@@ -1,4 +1,4 @@
-### ¡Saludos a todos los entusiastas de la inteligencia artificial y GitHub!
+### ¡Saludos a todos los entusiastas de GitHub y inteligencia artificial!
 
 Nos complace anunciar que GitHub es el orgulloso patrocinador de un evento imprescindible para la comunidad AI: **[Impulse AI](http://www.eventbrite.ca/e/637519998477/?discount=sponsorfriends20Jan2024)**. 
 
