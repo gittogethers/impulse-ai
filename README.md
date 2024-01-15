@@ -21,6 +21,8 @@ Tema de la Charla: Copilot es más que un asistente para desarrolladores en su e
 - Apertura de la Exhibición a las 9:00 AM: ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en CDMX](https://gh.io/grupomexico).
 - Introducción al SDP 11:00 AM a 11:15 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [https://gh.io/impulse-conf](https://gh.io/impulse-conf).
 - Rifa Final a las 4 PM: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad! Inscribete para participar: https://gh.io/sorteos
+  ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489)
+
 - Fin de la conferencia, pero tenemos más eventos y actividades en la Ciudad de México 🇲🇽. ¡Sigue leyendo para participar! 👇
 ## Dia 3 | Jueves, enero 18
 
