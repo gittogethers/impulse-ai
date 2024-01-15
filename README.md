@@ -25,7 +25,7 @@ Tema de la Charla: Copilot es más que un asistente para desarrolladores en su e
 
 - Fin de la conferencia, pero tenemos más eventos y actividades en la Ciudad de México 🇲🇽. ¡Sigue leyendo para participar! 👇
 ## Dia 3 | Jueves, enero 18
-
+![https___cdn evbuc com_images_671735059_718389348053_1_original](https://github.com/githubpresente/impulse-ai/assets/20666190/2c337026-eb8b-463f-87c6-4d7329a776bc)
 - Platzi Developer Group: Vision 2024 GitHub Copilot, por [Andrea Griffiths](https://www.instagram.com/alacolombiadev) Registro: https://platzi.com/eventos/platzi-dev-group-ai-24/
 
 ## Dia 4 | Viernes, enero 19 | 7PM CST | Oficinas Platzi 
