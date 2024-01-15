@@ -12,11 +12,12 @@ Desde el ámbito académico hasta la industria, abarcando startups y empresas es
 
 - Apertura de la Exhibición a las 9:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
   ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
+  
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
-- Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
 
-  <img src="[https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489](https://github.com/githubpresente/impulse-ai/assets/20666190/ba016787-ea0e-40df-a082-54b16eafe215)" width="400" height="400">
+- Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
+<img width="310" alt="Screenshot 2024-01-15 at 4 42 05 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5">
 
 ## Dia 2 | Miercoles, enero 17
 
@@ -37,11 +38,9 @@ Av. P.º de la Reforma 373 · Ciudad de México, CDMX
 GitTogether CDMX: Oficias Platzi, registracion necesaria: https://www.meetup.com/githublatam/events/298174551/
 <img width="400" alt="Screenshot 2024-01-15 at 1 06 48 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/c0a8c9ac-0385-4991-806c-49707b9758e0">
 
-
 **Ponentes:**
 - Ciberseguridad para No Hackers, junto a Rodrigo Martinez
 - Embeddings y la Técnica RAG en la IA, con [Carlos Andrés Alarcón](https://www.instagram.com/alarcon7a/)
-
 
 ✍🏽 Un par de Términos y Condiciones:
 - Participar en esta rifa, actividades en el exhibit y otras NO constituirá tu consentimiento para ser contactado por cualquier otra cosa.
