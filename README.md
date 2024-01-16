@@ -13,7 +13,7 @@ Desde el ámbito académico hasta la industria, abarcando startups y empresas es
 - Apertura de la Exhibición a las 9:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
   ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
   
-- 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro.
+- 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro. Lugar: Sala Fiestas.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
 
 - Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
